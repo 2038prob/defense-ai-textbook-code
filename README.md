@@ -5,7 +5,7 @@
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![pytorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c)
 
-교재 **「데이터·모델·학습이론으로 배우는 국방 인공지능」**(권현·이준·맹주본)의 실습 코드 저장소입니다.
+교재 **「데이터·모델·학습이론으로 배우는 국방 인공지능」**(권현·이준·맹주본·이태훈)의 실습 코드 저장소입니다.
 본문의 파이썬 예제·실습을 **장별 Jupyter 노트북**으로 정리했으며, 각 노트북은 클릭 한 번으로 Google
 Colab에서 바로 실행할 수 있습니다.
 
